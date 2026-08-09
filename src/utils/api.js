@@ -1,6 +1,6 @@
 import axios from 'axios';
 const api = axios.create({
-  baseURL: 'vitejs-vite-hgbytvcz-1-cfstxrcx9-890930.vercel.app',
+  baseURL: 'https://my-json-server.typicode.com/KIMHYEJIN89/vitejs-vite-hgbytvcz--1-',
   timeout: 5000,
   headers: {
     accept: 'application/json',
