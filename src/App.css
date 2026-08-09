@@ -1,0 +1,109 @@
+.app_layout {
+  max-width: 500px;
+  margin: 0 auto;
+  position: relative;
+  min-height: 100dvh;
+}
+
+body {
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 14px;
+  color: #111;
+  font-family: Pretendard;
+}
+
+.loading {
+  display: 'block';
+  margin: '0 auto';
+
+  position: 'absolute';
+  top: '50%';
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background-color: #ffe11f;
+}
+
+.items_center {
+  align-items: center;
+}
+
+.btn_wrap {
+  display: flex;
+  gap: 8px;
+}
+.btn_wrap button {
+  flex: 1;
+  height: 56px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.btn_wrap button span:not(.blind) {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.btn_wrap button.c2 span {
+  color: #fff;
+}
+
+.btn_wrap button.c2 {
+  background-color: #111;
+  color: #fff;
+}
+
+.btn_wrap button.c2 span {
+  color: #fff;
+}
+.btn_wrap button.c3 {
+  background-color: #ffe11f;
+  border-color: #ffe11f;
+}
+
+.check_label input {
+  position: absolute;
+  left: -9999px;
+  text-indent: -9999px;
+  opacity: 0;
+}
+.check_label label {
+  display: flex;
+  cursor: pointer;
+}
+.check_label .check_bx {
+  display: block;
+  align-items: center;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  text-align: center;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+}
+.check_label .check_bx .svg_check {
+  stroke-width: 4.17px;
+  stroke: #e0e0e0;
+  vertical-align: middle;
+}
+
+.check_label input:checked + label .check_bx {
+  background-color: #ffe11f;
+  stroke: #111;
+}
+
+.check_label input:checked + label .svg_check {
+  stroke: #111;
+}
+
+.btn_outline {
+  height: 28px;
+  padding: 0 12px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+}

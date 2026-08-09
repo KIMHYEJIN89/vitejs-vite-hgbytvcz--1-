@@ -1,0 +1,40 @@
+.mainBannerItem {
+  height: 500px !important;
+}
+.mainBannerItem img {
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mainBannerText {
+  position: absolute;
+  left: 20px;
+  bottom: 40px;
+  z-index: 10;
+}
+
+.mainBannerText .eyebrow {
+  font-size: 12px;
+}
+
+.mainBannerText h2 {
+  line-height: 1.2;
+  font-size: 30px;
+  font-weight: 700;
+  white-space: pre-wrap;
+}
+
+.mainBannerText .subTitle {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.mainBannerText.white * {
+  color: #fff;
+}
+
+.mainBannerText p {
+  line-height: 1.2;
+}

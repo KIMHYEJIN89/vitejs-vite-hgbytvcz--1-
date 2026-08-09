@@ -1,0 +1,17 @@
+.swiper-pagination-fraction {
+  left: auto;
+  right: 20px;
+  bottom: 20px;
+  width: auto;
+  min-width: 40px;
+  padding: 0 5px;
+  height: 20px;
+  line-height: 18px;
+  background: rgba(1, 1, 1, 0.2);
+  border-radius: 20px;
+  color: #fff;
+  font-size: 12px;
+}
+.swiper-pagination-fraction span {
+  color: #fff;
+}

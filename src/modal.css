@@ -1,0 +1,361 @@
+body:has(.react_modal_sheet.open) {
+  overflow-y: hidden;
+}
+
+.react_modal_sheet {
+  touch-action: none;
+}
+.react_modal_sheet.open {
+  bottom: 80px;
+}
+.react_modal_sheet.open .dim {
+  display: block;
+}
+.react_modal_sheet {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: -100%;
+  max-width: 500px;
+  margin: 0 auto;
+  height: 80px;
+  z-index: 9999;
+  background-color: #fff;
+  transition: all 0.5s;
+}
+.react_modal_sheet .dim {
+  display: none;
+  content: '';
+  z-index: 1;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  touch-action: none;
+  border: none;
+  pointer-events: auto;
+  opacity: 1;
+  will-change: transform;
+}
+
+.react_modal_sheet .sheet_wrap {
+  position: relative;
+  max-width: 500px;
+  height: 100%;
+  margin: 0 auto;
+  z-index: 99;
+  box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000,
+    0px 0px 8px 0px #00000029;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #fff;
+}
+
+.react_modal_sheet .sheet_header {
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+}
+
+.react_modal_sheet .sheet_header span:first-child {
+  width: 18px;
+  height: 4px;
+  border-radius: 99px;
+  background-color: rgb(221, 221, 221);
+  transform: translateX(2px) rotate(0deg);
+}
+
+.react_modal_sheet .sheet_header span:last-child {
+  width: 18px;
+  height: 4px;
+  border-radius: 99px;
+  background-color: rgb(221, 221, 221);
+  transform: translateX(-2px) rotate(0deg);
+}
+
+.react_modal_sheet .sheet_content {
+  padding: 16px;
+  background-color: #fff;
+}
+.react_modal_sheet .btn_sort_group button {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 700;
+}
+.react_modal_sheet .btn_sort_group button span {
+  display: none;
+}
+
+.react_modal_sheet.full {
+  z-index: 99999;
+}
+
+/* 구매하기 modal sheet */
+
+#pd_buy_modal {
+  padding-bottom: 100px;
+}
+
+#pd_buy_modal .sheet_wrap {
+  transform: translateY(0);
+  will-change: transform;
+}
+#pd_buy_modal .pd_info {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+#pd_buy_modal .pd_info .pd_thumb {
+  width: 32px;
+  height: 32px;
+}
+#pd_buy_modal .pd_info .pd_thumb img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+#pd_buy_modal .pd_details {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0;
+  padding: 0 0 0 10px;
+}
+
+#pd_buy_modal .pd_title {
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  line-height: 1.2;
+  -webkit-box-orient: vertical;
+  word-wrap: break-word;
+  word-break: break-all;
+  overflow: hidden;
+}
+#pd_buy_modal .pd_qty_sel {
+  display: flex;
+  width: 94px;
+  margin-top: 8px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+#pd_buy_modal .pd_qty_sel fieldset {
+  display: flex;
+  flex: 1;
+}
+#pd_buy_modal .pd_qty_sel input[type='number'] {
+  width: 100%;
+  padding: 0 4px;
+  text-align: center;
+  -moz-appearance: textfield;
+  border: none;
+}
+
+#pd_buy_modal .pd_qty_sel button {
+  width: 24px;
+  height: 28px;
+}
+#pd_buy_modal .price_info {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
+
+#pd_buy_modal .price_info .origin_price {
+  color: #767676;
+}
+#pd_buy_modal .price_info .origin_price del {
+  color: #767676;
+}
+#pd_buy_modal .price_info .sell_price {
+  margin-left: 3px;
+}
+
+#pd_buy_modal .price_wrap {
+  display: flex;
+  margin-left: auto;
+}
+
+/* 로그인 팝업 */
+#login_modal {
+  padding-bottom: 60px;
+}
+#login_modal .sheet_content {
+  padding-bottom: 30px;
+}
+#login_modal h2 {
+  line-height: 1.2;
+  font-size: 20px;
+  font-weight: 700;
+}
+#login_modal .text {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+/* footer bottom sheet */
+
+.bottom_sheet_footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: -100%;
+  max-width: 500px;
+  margin: 0 auto;
+  z-index: 9999;
+  background-color: #fff;
+  transition: all 0.5s;
+}
+
+.bottom_sheet_footer.open {
+  bottom: 0px;
+}
+.bottom_sheet_footer.full {
+  box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000,
+    0px 0px 8px 0px #00000029;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+.bottom_sheet_footer .btn_wrap {
+  padding: 12px 16px;
+}
+.bottom_sheet_footer .btn_wrap button.c2 {
+  flex: 1;
+}
+.bottom_sheet_footer .btn_zzim {
+  max-width: 90px;
+  border: none;
+}
+
+.bottom_sheet_footer .btn_zzim .count {
+  display: block;
+  margin-top: 3px;
+  font-weight: 700;
+}
+
+#pd_payment_bar {
+  box-shadow: none;
+  z-index: 99999;
+  border-radius: 0;
+}
+
+#pd_payment_bar .payment_summary {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-top: 1px solid #eee;
+}
+
+#pd_payment_bar .payment_summary .tit {
+  font-size: 16px;
+}
+
+#pd_payment_bar .payment_summary .total_amount {
+  font-size: 18px;
+}
+
+/* bottom_sheet_footer 로그인 */
+.bottom_sheet_footer.login_bar {
+  border-top: 1px solid #eee;
+}
+
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* bottom_sheet_footer 주문하기 */
+#pd_order_bar .total_payment {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 16px 5px;
+}
+#pd_order_bar .total_payment .title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+#pd_order_bar .total_payment .qty {
+  color: #757575;
+  font-weight: 400;
+}
+
+#pd_order_bar .total_payment .total_price {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.react_toast_popup {
+  position: fixed;
+  left: 5vw;
+  right: 5vw;
+  bottom: 0;
+  z-index: 999999;
+  max-width: 500px;
+  height: 50px;
+  margin: 0 auto;
+  padding: 20px 16px;
+  transform: translateY(100px);
+  opacity: 0;
+
+  background: rgb(0, 0, 0, 0.5);
+  color: #fff;
+  box-sizing: border-box;
+}
+.react_toast_popup .toast_msg {
+  display: flex;
+  justify-content: space-between;
+
+  color: #fff;
+}
+.react_toast_popup .toast_msg * {
+  color: #fff;
+}
+
+.react_toast_popup.open {
+  animation: toastMove 3s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+@keyframes toastMove {
+  0% {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+
+  15% {
+    transform: translateY(-10px); /* 튕김 */
+    opacity: 1;
+  }
+
+  25% {
+    transform: translateY(0); /* 자리 잡음 */
+    opacity: 1;
+  }
+
+  75% {
+    transform: translateY(0); /* 유지 */
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(40px); /* 아래로 떨어지면서 */
+    opacity: 0; /* 사라짐 */
+  }
+}

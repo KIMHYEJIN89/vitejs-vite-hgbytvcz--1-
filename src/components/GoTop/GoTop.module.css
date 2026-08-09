@@ -1,0 +1,22 @@
+.go_top {
+  position: fixed;
+  left: calc(50% + 250px - 60px);
+  bottom: 80px;
+  z-index: 999;
+}
+.go_top button {
+  width: 44px;
+  height: 44px;
+  margin-bottom: 10px;
+  border-radius: 100%;
+  box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000,
+    0px 0px 8px 0px #00000029;
+  background-color: #fff;
+}
+@media (max-width: 500px) {
+  .go_top {
+    left: auto;
+    right: 16px;
+    transform: none;
+  }
+}

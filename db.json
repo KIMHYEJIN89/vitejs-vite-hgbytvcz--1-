@@ -1,0 +1,2797 @@
+{
+  "main_data": {
+    "main_banners": [
+      {
+        "id": 1,
+        "title": "",
+        "sub_title": "",
+        "eyebrow": "",
+        "color": "white",
+        "image_url": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/b81125a9-7cbf-44f0-a532-6889756cdda2.jpg",
+        "link": "/promotions/nene-chicken"
+      },
+      {
+        "id": 2,
+        "title": "",
+        "sub_title": "",
+        "eyebrow": "",
+        "color": "white",
+        "image_url": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/06/4505b7a7-fa80-46ae-a263-ffb233038b35.jpg",
+        "link": "/promotions/nene-chicken"
+      },
+      {
+        "id": 3,
+        "title": "비상사태인 지금\n급찐급빠 골든타임!",
+        "sub_title": "닭가슴살 l 볶음밥 l 닭다리살",
+        "eyebrow": "",
+        "color": "white",
+        "image_url": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/09/52cb077c-5474-4f6c-a2b9-f3798d6428fc.jpg",
+        "link": "/promotions/nene-chicken"
+      },
+      {
+        "id": 4,
+        "title": "도시락부터 닭가슴살까지\n식단관리 연휴특가",
+        "sub_title": "UP TO 57% l 다양한 구성",
+        "eyebrow": "",
+        "color": "white",
+        "image_url": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/09/92a666c2-3bc1-471a-a33d-9b1d08d439e5.jpg",
+        "link": "/promotions/nene-chicken"
+      },
+      {
+        "id": 5,
+        "title": "급찐금빠\n패키지 골라담기",
+        "sub_title": "UP TO 57% l 다양한 구성",
+        "eyebrow": "",
+        "color": "black",
+        "image_url": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/13/05495d3f-669e-4464-a7af-99aa2bb6a68c.jpg",
+        "link": "/promotions/nene-chicken"
+      }
+    ],
+
+    "menu_name": [
+      {
+        "id": 1,
+        "name": "허세데이",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/11/69d27885-c40a-4a31-937e-2b880f21c68a.jpg"
+      },
+      {
+        "id": 2,
+        "name": "베스트",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/27/c20cdf76-2a46-48af-92a2-e7fb4d219259.png"
+      },
+      {
+        "id": 3,
+        "name": "패키지",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/27/7bc64155-00f8-414f-bf5f-38d667562a3e.png"
+      },
+      {
+        "id": 4,
+        "name": "첫구매",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/27/1aa153ac-3ea8-463a-bf48-8c8aa1a0e6dc.png"
+      },
+      {
+        "id": 5,
+        "name": "추천브랜드",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/04/e7eb4ffa-ff89-4a59-ad0d-360f8e259271.png"
+      },
+      {
+        "id": 6,
+        "name": "쿠폰/이벤트",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/27/9480a9fe-ee97-4a79-b3c8-479069e2103a.png"
+      },
+      {
+        "id": 7,
+        "name": "닭가슴살",
+        "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/27/200556e0-733e-4239-9bbe-e88989012dff.png"
+      }
+    ],
+
+    "new_products": {
+      "productId": [156, 157, 158, 159]
+    },
+
+    "time_sale": {
+      "productId": [151, 152, 153, 154]
+    },
+
+    "md_pick": {
+      "productId": [110, 111, 112, 113, 114, 115, 116, 117, 119]
+    }
+  },
+
+  "best": {
+    "productId": [101, 102, 103, 104, 105, 111, 120, 121, 132, 144]
+  },
+
+  "recommend": {
+    "chicken": [101, 103, 104, 105, 106, 107, 108, 109],
+    "steak": [102, 104],
+    "meal": [104, 109]
+  },
+
+  "inquiry": [
+    {
+      "id": 1,
+      "productId": 101,
+      "userNickname": "빠아난쑥쑥오믈렛",
+      "date": "2026-02-06 08:09",
+      "status": "답변대기",
+      "isPrivate": true,
+      "question": null,
+      "answer": null,
+      "cs_name": "판매자 답변",
+      "cs_date": "2026-02-06 08:03"
+    },
+    {
+      "id": 2,
+      "productId": 101,
+      "userNickname": "치킨매니아",
+      "date": "2026-02-05 17:00",
+      "status": "답변완료",
+      "isPrivate": false,
+      "question": "20개 주문인데 18개만 왔는데요?",
+      "answer": "상품 이용에 불편을 드려 죄송합니다. 물류지에서 포장 과정 중 실수가 있었던 것 같습니다. 누락된 제품명(맛) 말씀주시면 재출고 도와 드리겠습니다. 번거롭게 해드려 죄송합니다. 감사합니다.",
+      "cs_name": "판매자 답변",
+      "cs_date": "2026-02-06 08:03"
+    },
+    {
+      "id": 3,
+      "productId": 103,
+      "userNickname": "청정한말랑말랑튀김만두",
+      "date": "2026-01-23 18:42",
+      "status": "답변대기",
+      "isPrivate": true,
+      "question": null,
+      "answer": null
+    },
+    {
+      "id": 4,
+      "productId": 104,
+      "userNickname": "성공적인뚝뚝모짜렐라치즈",
+      "date": "2026-01-06 10:44",
+      "status": "답변대기",
+      "isPrivate": true,
+      "question": null,
+      "answer": null,
+      "cs_name": "판매자 답변",
+      "cs_date": "2026-02-06 08:03"
+    },
+    {
+      "id": 5,
+      "productId": 105,
+      "userNickname": "귀여운두둥둥오므라이스",
+      "date": "2025-12-09 10:14",
+      "status": "답변완료",
+      "isPrivate": false,
+      "question": "아직 배송준비중이던데... 언제쯤 배송시작하나요?",
+      "answer": "현재 주문량 증가로 배송이 지연되고 있습니다. 최대한 빠르게 출고 도와드리겠습니다.",
+      "cs_name": "판매자 답변",
+      "cs_date": " 2026-02-06 08:03"
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": 101,
+      "productId": 101,
+      "userNickname": "닭가슴살매니아",
+      "score": 5,
+      "content": "완전 맛있어요! 또 구매할 예정입니다.",
+      "date": "2025-04-11",
+      "image": null
+    },
+    {
+      "id": 102,
+      "productId": 101,
+      "userNickname": "운동하는여자",
+      "score": 5,
+      "content": "간편하게 먹기 좋아요.",
+      "date": "2025-04-10",
+      "image": null
+    },
+    {
+      "id": 103,
+      "productId": 101,
+      "userNickname": "헬스초보",
+      "score": 4,
+      "content": "맛 괜찮고 배송 빨라요.",
+      "date": "2025-04-09",
+      "image": null
+    },
+    {
+      "id": 104,
+      "productId": 102,
+      "userNickname": "단백질중독",
+      "score": 2,
+      "content": "스테이크 진짜 맛있어요.",
+      "date": "2025-04-08",
+      "image": null
+    },
+    {
+      "id": 105,
+      "productId": 102,
+      "userNickname": "다이어터",
+      "score": 2,
+      "content": "가격 대비 좋아요.",
+      "date": "2025-04-07",
+      "image": null
+    },
+    {
+      "id": 106,
+      "productId": 102,
+      "userNickname": "프로헬창",
+      "score": 3,
+      "content": "재구매 의사 있습니다.",
+      "date": "2025-04-06",
+      "image": null
+    },
+    {
+      "id": 107,
+      "productId": 103,
+      "userNickname": "식단관리중",
+      "score": 5,
+      "content": "닭가슴살 촉촉하고 맛있어요.",
+      "date": "2025-04-05",
+      "image": null
+    },
+    {
+      "id": 108,
+      "productId": 103,
+      "userNickname": "벌크업중",
+      "score": 4,
+      "content": "운동용으로 좋아요.",
+      "date": "2025-04-04",
+      "image": null
+    },
+    {
+      "id": 109,
+      "productId": 103,
+      "userNickname": "헬린이탈출",
+      "score": 5,
+      "content": "배송 빠르고 만족합니다.",
+      "date": "2025-04-03",
+      "image": null
+    },
+    {
+      "id": 110,
+      "productId": 101,
+      "userNickname": "닭가슴살사랑",
+      "score": 5,
+      "content": "매번 구매하는 제품이에요.",
+      "date": "2025-04-02",
+      "image": null
+    },
+    {
+      "id": 111,
+      "productId": 145,
+      "userNickname": "클린이팅",
+      "score": 4,
+      "content": "해동해서 구워 먹으니 퍽퍽하지 않고 부드럽네요.",
+      "date": "2026-03-15",
+      "image": "review_111.jpg"
+    },
+    {
+      "id": 112,
+      "productId": 122,
+      "userNickname": "득근득근",
+      "score": 3,
+      "content": "맛은 있는데 제 입맛에는 소스가 조금 짠 편이에요.",
+      "date": "2026-03-18",
+      "image": null
+    },
+    {
+      "id": 113,
+      "productId": 168,
+      "userNickname": "새해다짐러",
+      "score": 5,
+      "content": "신제품이라 시켜봤는데 큐브 형태라 샐러드에 넣어 먹기 딱 좋습니다.",
+      "date": "2026-03-20",
+      "image": "review_113.jpg"
+    },
+    {
+      "id": 114,
+      "productId": 110,
+      "userNickname": "유지어터일상",
+      "score": 4,
+      "content": "포장이 깔끔하게 와서 터진 것 없이 잘 받았습니다.",
+      "date": "2026-03-22",
+      "image": null
+    },
+    {
+      "id": 115,
+      "productId": 155,
+      "userNickname": "야식참는중",
+      "score": 1,
+      "content": "배송이 하루 늦게 와서 다 녹아서 왔어요... 고객센터 연락 바랍니다.",
+      "date": "2026-03-25",
+      "image": "review_115.jpg"
+    },
+    {
+      "id": 116,
+      "productId": 134,
+      "userNickname": "치팅데이기다림",
+      "score": 5,
+      "content": "이 가격에 이 정도 퀄리티면 무조건 정기구독 각입니다.",
+      "date": "2026-03-26",
+      "image": null
+    },
+    {
+      "id": 117,
+      "productId": 162,
+      "userNickname": "홈트공주",
+      "score": 4,
+      "content": "전자레인지에 돌리기만 하면 되니까 출근할 때 챙겨가기 너무 편해요.",
+      "date": "2026-03-28",
+      "image": null
+    },
+    {
+      "id": 118,
+      "productId": 108,
+      "userNickname": "3대500목표",
+      "score": 2,
+      "content": "가성비는 좋은데 기대를 많이 해서 그런지 그냥 평범한 맛이에요.",
+      "date": "2026-03-29",
+      "image": null
+    },
+    {
+      "id": 119,
+      "productId": 127,
+      "userNickname": "인바디재는날",
+      "score": 5,
+      "content": "성분표 보니까 단백질 함량도 높고 지방이 적어서 식단 관리용으로 최적입니다.",
+      "date": "2026-03-30",
+      "image": "review_119.jpg"
+    },
+    {
+      "id": 120,
+      "productId": 149,
+      "userNickname": "마른비만탈출",
+      "score": 3,
+      "content": "스파이시 맛인데 생각보다 더 매콤해요! 매운 거 못 드시는 분들은 참고하세요.",
+      "date": "2026-03-31",
+      "image": null
+    },
+    {
+      "id": 121,
+      "productId": 165,
+      "userNickname": "득근이엄마",
+      "score": 5,
+      "content": "2026년 새해 다짐으로 식단 시작하면서 주문했는데 질리지 않고 계속 먹게 되네요.",
+      "date": "2026-04-02",
+      "image": "review_121.jpg"
+    },
+    {
+      "id": 122,
+      "productId": 112,
+      "userNickname": "바디프로필도전",
+      "score": 4,
+      "content": "수비드 공법이라 그런지 가슴살인데도 닭다리살처럼 결이 부드럽게 찢어집니다.",
+      "date": "2026-04-05",
+      "image": null
+    },
+    {
+      "id": 123,
+      "productId": 170,
+      "userNickname": "크로스핏터",
+      "score": 5,
+      "content": "신제품 스테이크 대박이네요. 겉바속촉으로 구워 먹으면 웬만한 외식 안 부럽습니다.",
+      "date": "2026-04-09",
+      "image": "review_123.jpg"
+    },
+    {
+      "id": 124,
+      "productId": 143,
+      "userNickname": "식단러의삶",
+      "score": 2,
+      "content": "포장지 하나가 미세하게 찢어져서 와서 국물이 좀 새어있었어요. 다음엔 신경 써주세요.",
+      "date": "2026-04-12",
+      "image": "review_124.jpg"
+    },
+    {
+      "id": 125,
+      "productId": 158,
+      "userNickname": "유산소중독",
+      "score": 5,
+      "content": "소스가 넉넉해서 현미밥 슥슥 비벼 먹기 딱 좋습니다. 나트륨 함량도 적당해요.",
+      "date": "2026-04-15",
+      "image": null
+    },
+    {
+      "id": 126,
+      "productId": 105,
+      "userNickname": "단백질러버",
+      "score": 3,
+      "content": "맛은 아주 만족스러운데 요즘 날씨가 더워져서 그런지 아이스팩이 다 녹아서 왔네요.",
+      "date": "2026-04-18",
+      "image": null
+    },
+    {
+      "id": 127,
+      "productId": 169,
+      "userNickname": "치팅데이만기다려",
+      "score": 5,
+      "content": "닭가슴살 소시지는 무조건 여기서만 시켜요. 뽀득뽀득한 식감이 예술입니다.",
+      "date": "2026-04-21",
+      "image": "review_127.jpg"
+    },
+    {
+      "id": 128,
+      "productId": 124,
+      "userNickname": "헬스장출석왕",
+      "score": 4,
+      "content": "간편하게 단백질 채우기 이만한 게 없죠. 냉동실 가득 채워두니 든든합니다.",
+      "date": "2026-04-25",
+      "image": null
+    },
+    {
+      "id": 129,
+      "productId": 161,
+      "userNickname": "새벽반러너",
+      "score": 1,
+      "content": "정기배송 신청했는데 이번 달 배송이 누락되어서 주말 식단 다 꼬였네요... 실망입니다.",
+      "date": "2026-04-28",
+      "image": null
+    },
+    {
+      "id": 130,
+      "productId": 137,
+      "userNickname": "오운완완료",
+      "score": 5,
+      "content": "포장 뜯어서 전자레인지 1분 30초면 끝이라 바쁜 아침에 구원투수입니다.",
+      "date": "2026-05-01",
+      "image": null
+    },
+    {
+      "id": 131,
+      "productId": 148,
+      "userNickname": "체지방컷팅",
+      "score": 4,
+      "content": "훈제 향이 은은하게 나서 잡내가 전혀 안 나요. 닭 비린내 예민하신 분들께 추천.",
+      "date": "2026-05-04",
+      "image": "review_131.jpg"
+    },
+    {
+      "id": 132,
+      "productId": 152,
+      "userNickname": "필라테스조아",
+      "score": 5,
+      "content": "곤약 현미볶음밥이랑 같이 먹으면 포만감 엄청 오래 가요! 재구매 예정입니다.",
+      "date": "2026-05-08",
+      "image": null
+    },
+    {
+      "id": 133,
+      "productId": 119,
+      "userNickname": "벌크업3년차",
+      "score": 3,
+      "content": "가성비는 최고인데 매일 먹다 보니 조금 물리긴 하네요. 소스를 추가해서 먹어야겠어요.",
+      "date": "2026-05-10",
+      "image": null
+    },
+    {
+      "id": 134,
+      "productId": 167,
+      "userNickname": "다이어트소통",
+      "score": 5,
+      "content": "슬라이스 되어 있어서 가위로 따로 안 잘라도 되니까 밖에서 먹기 편하네요.",
+      "date": "2026-05-12",
+      "image": "review_134.jpg"
+    },
+    {
+      "id": 135,
+      "productId": 131,
+      "userNickname": "린매스업목표",
+      "score": 4,
+      "content": "해동만 잘 시켜서 조리하면 퍽퍽함이 제로에 가깝습니다. 대량 구매 할인 더 해주세요!",
+      "date": "2026-05-15",
+      "image": null
+    },
+    {
+      "id": 136,
+      "productId": 156,
+      "userNickname": "직장인식단러",
+      "score": 2,
+      "content": "달콤짭조름하긴 한데 제 입맛에는 당류가 좀 높게 느껴져서 아쉬워요.",
+      "date": "2026-05-19",
+      "image": null
+    },
+    {
+      "id": 137,
+      "productId": 142,
+      "userNickname": "스쿼트장인",
+      "score": 5,
+      "content": "배송도 하루 만에 오고 드라이아이스 짱짱하게 들어있어서 신선하게 잘 받았습니다.",
+      "date": "2026-05-20",
+      "image": "review_137.jpg"
+    },
+    {
+      "id": 138,
+      "productId": 128,
+      "userNickname": "건강식단연구소",
+      "score": 4,
+      "content": "카레 맛 구매했는데 향이 과하지 않고 적당해서 닭가슴살 특유의 물리는 맛을 잘 잡아줍니다.",
+      "date": "2026-05-23",
+      "image": null
+    },
+    {
+      "id": 139,
+      "productId": 163,
+      "userNickname": "클린푸드파이터",
+      "score": 5,
+      "content": "지인 추천으로 샀는데 대만족입니다. 단백질 25g 채우기 이렇게 쉬웠다니ㅎㅎ",
+      "date": "2026-05-25",
+      "image": null
+    },
+    {
+      "id": 140,
+      "productId": 115,
+      "userNickname": "새내기헬린이",
+      "score": 3,
+      "content": "처음 식단 시작하면서 사봤어요. 그냥저냥 먹을 만한데 다 먹으면 다른 맛도 도전해 보려고요.",
+      "date": "2026-05-26",
+      "image": "review_140.jpg"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 101,
+      "name": "[허닭] 오븐구이 닭가슴살바 70g 혼합 10팩",
+      "categorys": ["chicken"],
+      "origin_price": 19500,
+      "sell_price": 15900,
+      "price": 15900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/19/fd4ff72b-60e0-4a3e-a8cc-ee7b8a988876.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/19/fd4ff72b-60e0-4a3e-a8cc-ee7b8a988876.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/f1fdeff0-34a3-4920-936d-b889bc163e01.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/e531b01e-ffe3-4352-a426-78da927da3f8.jpg"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/19/fd4ff72b-60e0-4a3e-a8cc-ee7b8a988876.jpg"
+      ],
+
+      "description_images": [
+        "https://cdn007.negagea.net/starbiz/heodak/homepage/oven_bar_intro.jpg"
+      ],
+
+      "description": "오븐구이 닭가슴살바 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "허닭",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 5
+      }
+    },
+
+    {
+      "id": 102,
+      "name": "[허닭] 10+10 스테이크 골라담기",
+      "categorys": ["steak"],
+      "origin_price": 50000,
+      "sell_price": 25000,
+      "price": 25000,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/f1fdeff0-34a3-4920-936d-b889bc163e01.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/f1fdeff0-34a3-4920-936d-b889bc163e01.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/19/fd4ff72b-60e0-4a3e-a8cc-ee7b8a988876.jpg"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/f1fdeff0-34a3-4920-936d-b889bc163e01.jpg"
+      ],
+
+      "description_images": [
+        "https://example.com/desc3.jpg",
+        "https://example.com/desc4.jpg"
+      ],
+
+      "description": "스테이크 골라담기 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "허닭",
+
+      "coupon": {
+        "available": true,
+        "type": "amount",
+        "value": 2000
+      }
+    },
+
+    {
+      "id": 103,
+      "name": "[푸라닭] 통 닭가슴살 골라담기",
+      "categorys": ["chicken"],
+      "origin_price": 141000,
+      "sell_price": 71600,
+      "price": 71600,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/e531b01e-ffe3-4352-a426-78da927da3f8.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/e531b01e-ffe3-4352-a426-78da927da3f8.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/19/fd4ff72b-60e0-4a3e-a8cc-ee7b8a988876.jpg"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/25/e531b01e-ffe3-4352-a426-78da927da3f8.jpg"
+      ],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "통 닭가슴살 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "푸라닭",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 104,
+      "name": "[허닭] ★1팩990원~★닭가슴살/스테이크/저당/도시락 등 BEST 103종 1팩 골라담기",
+      "categorys": ["chicken", "steak", "meal"],
+      "origin_price": 1950,
+      "sell_price": 990,
+      "price": 990,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/17/9d7a3962-cdda-4cbf-8942-81d4f4907d29.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/17/9d7a3962-cdda-4cbf-8942-81d4f4907d29.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003009.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://img.heodak.com/heodak/homepage/hdk_1pack_goldam_intro.jpg"
+      ],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "닭가슴살/스테이크/저당/도시락 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "허닭",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 105,
+      "name": "[허닭] PICK 그릴드 한입 닭다리살 깻잎 8+8팩",
+      "categorys": ["chicken"],
+      "origin_price": 62400,
+      "sell_price": 37900,
+      "price": 37900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/17/9d7a3962-cdda-4cbf-8942-81d4f4907d29.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/24/5ab7bcba-6124-410b-85cf-2e5cee476eda.jpg?w=512&amp;q=100"
+      ],
+
+      "detail_images": [
+        "https://img.heodak.com/heodak/homepage/hdkpick_grilled_intro.jpg"
+      ],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "PICK 그릴드 한입 닭다리살 깻잎 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "허닭",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 106,
+      "name": "[허닭] ON 촉촉 담백&퐁당 실온 닭가슴살 6종 혼합 50팩",
+      "categorys": ["chicken"],
+      "origin_price": 195000,
+      "sell_price": 99900,
+      "price": 99900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/10/13/a66e720f-014d-4ad9-959d-ac88f209aad5.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/10/13/a66e720f-014d-4ad9-959d-ac88f209aad5.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/03/4ad41778-f7d8-4ab8-aeff-09e35177133f.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/30/ae569d7f-efa4-4f4c-9560-d659f1ef50ae.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://img.heodak.com/heodak/homepage/hdkon_silon_intro.jpg"
+      ],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "ON 촉촉 담백&퐁당 실온 닭가슴살 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "실온",
+      "brand": "허닭",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 107,
+      "name": "[푸라닭] ★벌크특가★소스듬뿍! 통 닭가슴살 100g 20/30/40팩 골라담기",
+      "categorys": ["chicken"],
+      "origin_price": 141000,
+      "sell_price": 54900,
+      "price": 54900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/20/a06888f2-271e-42db-8ce5-35fa5d47f5cf.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/10/13/a66e720f-014d-4ad9-959d-ac88f209aad5.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/03/4ad41778-f7d8-4ab8-aeff-09e35177133f.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/30/ae569d7f-efa4-4f4c-9560-d659f1ef50ae.jpg?w=512&q=100"
+      ],
+
+      "detail_images": ["https://img.heodak.com/puradak/de/tong_g.jpg"],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "★벌크특가★소스듬뿍! 통 닭가슴살 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "푸라닭",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 108,
+      "name": "[네네치킨X오빠닭x푸라닭]★고단백x소스닭가슴살★ 15+15팩 균일가 골라담기",
+      "categorys": ["chicken"],
+      "origin_price": 141000,
+      "sell_price": 54900,
+      "price": 54900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/c9cd7856-fad2-4238-a0da-5faee373b2f2.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/c9cd7856-fad2-4238-a0da-5faee373b2f2.jpg?w=512&q=100"
+      ],
+
+      "detail_images": ["https://img.heodak.com/puradak/de/tong_g.jpg"],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "★벌크특가★소스듬뿍! 통 닭가슴살 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 109,
+      "name": "[허닭] 오븐에 구운 닭가슴살 미니 스테이크 60g 청양고추맛 20팩",
+      "categorys": ["chicken"],
+      "origin_price": 141000,
+      "sell_price": 54900,
+      "price": 54900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/005004000425.jpg?w=512&q=100.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/c9cd7856-fad2-4238-a0da-5faee373b2f2.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://img.heodak.com/heodak/homepage/mini_oven_intro.jpg"
+      ],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "★벌크특가★소스듬뿍! 통 닭가슴살 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 110,
+      "name": "[허닭] PICK 닭가슴살 소스 스테이크 8+8팩",
+      "categorys": ["meal"],
+      "origin_price": 36800,
+      "sell_price": 29900,
+      "price": 29900,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/be8e6007-ab8a-4f54-8294-8f7472b554bd.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/be8e6007-ab8a-4f54-8294-8f7472b554bd.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/be8e6007-ab8a-4f54-8294-8f7472b554bd.jpg?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdkpick_ssbbq.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 111,
+      "name": "[허닭] 크리스피 통 닭가슴살 10+10",
+      "categorys": ["meal"],
+      "origin_price": 58000,
+      "sell_price": 45900,
+      "price": 58000,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/715cdd43-7071-4dd0-aed8-36fff5655782.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/14/5c6e95c0-4140-41a9-b1b0-e2396d696446.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/715cdd43-7071-4dd0-aed8-36fff5655782.jpg?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/crispytong_intro.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 112,
+      "name": "[허닭] ON 촉촉 담백&퐁당 실온 닭가슴살 6종 8+8",
+      "categorys": ["meal"],
+      "origin_price": 62400,
+      "sell_price": 42900,
+      "price": 62400,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/73c2b71f-319a-4192-89f8-aba67eac7bce.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/73c2b71f-319a-4192-89f8-aba67eac7bce.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/73c2b71f-319a-4192-89f8-aba67eac7bce.jpg?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdkon_deliverinform.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 113,
+      "name": "[오빠닭] 고단백 소스 닭가슴살 2종 14+1팩 골라담기 ★쿠폰가 팩당 1,600원대★",
+      "categorys": ["meal"],
+      "origin_price": 67500,
+      "sell_price": 26900,
+      "price": 67500,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/c6c06bbd-0a1f-4fad-a8a6-b4a4c6ef901b.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/c6c06bbd-0a1f-4fad-a8a6-b4a4c6ef901b.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/c6c06bbd-0a1f-4fad-a8a6-b4a4c6ef901b.jpg?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://img.heodak.com/heodakfriends/heodak_shipping.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 114,
+      "name": "[네네치킨]★올타임베스트★ 네꼬닭 닭가슴살 40+5팩 패키지",
+      "categorys": ["meal"],
+      "origin_price": 135000,
+      "sell_price": 44900,
+      "price": 135000,
+      "deliveryFee": 0,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/c9cd7856-fad2-4238-a0da-5faee373b2f2.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/627a7de4-92d8-4997-911f-0a3db25815da.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/627a7de4-92d8-4997-911f-0a3db25815da.jpg?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://img.heodak.com/heodakfriends/nene/nene_gif_intro.gif",
+        "https://img.heodak.com/heodakfriends/heodak_shipping.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 115,
+      "name": "[푸라닭]★최대100팩★소스통 닭가슴살/통닭다리 외 전제품 90팩 대량할인",
+      "categorys": ["meal"],
+      "origin_price": 2700000,
+      "sell_price": 99900,
+      "price": 2700000,
+      "deliveryFee": 0,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/a127e9fb-f651-4006-8274-d64ff346dbb5.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/a127e9fb-f651-4006-8274-d64ff346dbb5.jpg?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/15/a127e9fb-f651-4006-8274-d64ff346dbb5.jpg?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://img.heodak.com/puradak/homeand/puradak.gif",
+        "https://img.heodak.com/puradak/brand_intro.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 116,
+      "name": "[닭형] 닭다리살 16종 맛보기 세트",
+      "categorys": ["meal"],
+      "origin_price": 77240,
+      "sell_price": 42080,
+      "price": 77240,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/b04fb678-3092-4b00-ae62-7fcd31da7f09.png",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/b04fb678-3092-4b00-ae62-7fcd31da7f09.png?w=512&q=100"
+      ],
+
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/b04fb678-3092-4b00-ae62-7fcd31da7f09.png?w=512&q=100"
+      ],
+
+      "description_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/product/2025/09/19/2ff339cc-0601-455e-89c9-93364c1abaa7.png"
+      ],
+
+      "description": "[닭형] 닭다리살 16종 맛보기 세트",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 117,
+      "name": "[제로스푼] 갓닭 무설탕 수비드 그릴드 닭가슴살 100g 9팩",
+      "categorys": ["meal"],
+      "origin_price": 33300,
+      "sell_price": 22300,
+      "price": 33300,
+      "deliveryFee": 3000,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/12/03/d017297f-d1f8-45cd-b339-58f56c773651.png",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/12/03/d017297f-d1f8-45cd-b339-58f56c773651.png?w=512&q=100"
+      ],
+
+      "detail_images": ["https://zerofood.speedgabia.com/04_godchicken/01.gif"],
+
+      "description_images": [
+        "https://zerofood.speedgabia.com/04_godchicken/00_nosugar.gif",
+        "https://zerofood.speedgabia.com/04_godchicken/01.gif",
+        "https://zerofood.speedgabia.com/04_godchicken/00_nosugar.gif",
+        "https://zerofood.speedgabia.com/04_godchicken/02.png"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 118,
+      "name": "[더바른도시락] 식단관리 다이어트 도시락and파스타 시즌2,3,4,5 골라담기",
+      "categorys": ["meal"],
+      "origin_price": 39900,
+      "sell_price": 16600,
+      "price": 39900,
+      "deliveryFee": 0,
+
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg",
+
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/14/5c6e95c0-4140-41a9-b1b0-e2396d696446.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+
+      "detail_images": ["https://img.heodak.com/puradak/de/tong_g.jpg"],
+
+      "description_images": [
+        "https://example.com/desc5.jpg",
+        "https://example.com/desc6.jpg"
+      ],
+
+      "description": "인생도시락 10종10팩 직장인 건강 영양잡곡밥 냉동 간편 한 상세 설명",
+      "origin": "상품정보 참조",
+
+      "storage": "냉동",
+      "brand": "네네치킨",
+
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 119,
+      "name": "[허닭] 프레시 슬라이스 닭가슴살 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 22000,
+      "sell_price": 16200,
+      "price": 22000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/jdw_chicken_intro.jpg"
+      ],
+      "description": "신선한 닭가슴살을 부드럽게 슬라이스하여 바로 먹기 편한 오리지널",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 120,
+      "name": "[랭킹닭컴] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 27000,
+      "sell_price": 18000,
+      "price": 27000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/new_spc_franksausage_1.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "랭킹닭컴",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 121,
+      "name": "[허닭] 닭가슴살 소시지 후랑크 치즈 10팩",
+      "categorys": ["meal"],
+      "origin_price": 23000,
+      "sell_price": 13800,
+      "price": 23000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/heodak/homepage/new_spc_franksausage_1.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "고소한 치즈가 쏙쏙 박혀 더욱 풍미 깊은 프리미엄 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 122,
+      "name": "[굽네] 닭가슴살 소시지 후랑크 치즈 30팩",
+      "categorys": ["meal"],
+      "origin_price": 21000,
+      "sell_price": 16300,
+      "price": 21000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/d83bda5e-2dc0-4bdc-ac22-bf54e7f1dce9.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/new_spc_franksausage_1.jpg"
+      ],
+      "description": "고소한 치즈가 쏙쏙 박혀 더욱 풍미 깊은 프리미엄 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "굽네",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 123,
+      "name": "[바르닭] 닭가슴살 소시지 후랑크 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 21000,
+      "sell_price": 12600,
+      "price": 21000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "담백하고 고소한 오리지널 맛 그대로, 남녀노소 즐기는 건강 간식",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "바르닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 124,
+      "name": "[허닭] 닭가슴살 소시지 후랑크 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 31000,
+      "sell_price": 16700,
+      "price": 31000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "담백하고 고소한 오리지널 맛 그대로, 남녀노소 즐기는 건강 간식",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 125,
+      "name": "[네네치킨] 프레시 슬라이스 닭가슴살 커리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 30000,
+      "sell_price": 19500,
+      "price": 30000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "은은한 커리 향으로 풍미를 더해 더욱 특별한 식단 관리",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 126,
+      "name": "[허닭] 프레시 슬라이스 닭가슴살 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 26000,
+      "sell_price": 17100,
+      "price": 26000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "신선한 닭가슴살을 부드럽게 슬라이스하여 바로 먹기 편한 오리지널",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 127,
+      "name": "[잇메이트] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 27000,
+      "sell_price": 21000,
+      "price": 27000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 128,
+      "name": "[더바른도시락] 프레시 슬라이스 닭가슴살 커리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 26000,
+      "sell_price": 17100,
+      "price": 26000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "은은한 커리 향으로 풍미를 더해 더욱 특별한 식단 관리",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "더바른도시락",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 129,
+      "name": "[맛있닭] 닭가슴살 소시지 후랑크 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 35000,
+      "sell_price": 22700,
+      "price": 35000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "담백하고 고소한 오리지널 맛 그대로, 남녀노소 즐기는 건강 간식",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "맛있닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 130,
+      "name": "[잇메이트] 프레시 슬라이스 닭가슴살 칠리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 29000,
+      "sell_price": 17900,
+      "price": 29000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/ee5d398b-e28e-4dcc-9a8f-9e5f06485e4c.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/ee5d398b-e28e-4dcc-9a8f-9e5f06485e4c.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 131,
+      "name": "[더바른도시락] 프레시 슬라이스 닭가슴살 커리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 30000,
+      "sell_price": 22200,
+      "price": 30000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "은은한 커리 향으로 풍미를 더해 더욱 특별한 식단 관리",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "더바른도시락",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 132,
+      "name": "[굽네] 닭가슴살 소시지 후랑크 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 34000,
+      "sell_price": 23800,
+      "price": 34000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "담백하고 고소한 오리지널 맛 그대로, 남녀노소 즐기는 건강 간식",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "굽네",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 133,
+      "name": "[잇메이트] 닭가슴살 소시지 후랑크 불닭 10팩",
+      "categorys": ["meal"],
+      "origin_price": 27000,
+      "sell_price": 18000,
+      "price": 27000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/418b5e7d-1acf-4eee-a732-219e430e6a2b.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/418b5e7d-1acf-4eee-a732-219e430e6a2b.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "맛있게 매운 불닭 소스로 입맛을 돋우는 화끈한 닭가슴살 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 134,
+      "name": "[네네치킨] 프레시 슬라이스 닭가슴살 3종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 33000,
+      "sell_price": 23100,
+      "price": 33000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/c774e86a-f81f-42b9-a07a-5a3fd2457f64.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/c774e86a-f81f-42b9-a07a-5a3fd2457f64.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "인기 있는 3가지 맛 슬라이스를 골고루 담은 실속형 세트",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 135,
+      "name": "[더바른도시락] 닭가슴살 소시지 후랑크 치즈 10팩",
+      "categorys": ["meal"],
+      "origin_price": 23000,
+      "sell_price": 15400,
+      "price": 23000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "고소한 치즈가 쏙쏙 박혀 더욱 풍미 깊은 프리미엄 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "더바른도시락",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 136,
+      "name": "[더바른도시락] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 21000,
+      "sell_price": 11300,
+      "price": 21000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "더바른도시락",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 137,
+      "name": "[허닭] 프레시 슬라이스 닭가슴살 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 33000,
+      "sell_price": 20100,
+      "price": 33000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "신선한 닭가슴살을 부드럽게 슬라이스하여 바로 먹기 편한 오리지널",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 138,
+      "name": "[바르닭] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 22000,
+      "sell_price": 15100,
+      "price": 22000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "바르닭",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 139,
+      "name": "[잇메이트] 닭가슴살 소시지 후랑크 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 22000,
+      "sell_price": 13800,
+      "price": 22000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "담백하고 고소한 오리지널 맛 그대로, 남녀노소 즐기는 건강 간식",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 140,
+      "name": "[바르닭] 닭가슴살 소시지 후랑크 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 29000,
+      "sell_price": 20800,
+      "price": 29000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/b2da3b23-54b6-4ebd-9375-eea27446f5b2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "담백하고 고소한 오리지널 맛 그대로, 남녀노소 즐기는 건강 간식",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "바르닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 141,
+      "name": "[잇메이트] 프레시 슬라이스 닭가슴살 오리지널 10팩",
+      "categorys": ["meal"],
+      "origin_price": 28000,
+      "sell_price": 14200,
+      "price": 28000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "신선한 닭가슴살을 부드럽게 슬라이스하여 바로 먹기 편한 오리지널",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 142,
+      "name": "[잇메이트] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 31000,
+      "sell_price": 21700,
+      "price": 31000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 143,
+      "name": "[랭킹닭컴] 닭가슴살 소시지 후랑크 치즈 10팩",
+      "categorys": ["meal"],
+      "origin_price": 26000,
+      "sell_price": 18400,
+      "price": 26000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "고소한 치즈가 쏙쏙 박혀 더욱 풍미 깊은 프리미엄 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "랭킹닭컴",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 144,
+      "name": "[랭킹닭컴] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 33000,
+      "sell_price": 21700,
+      "price": 33000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "랭킹닭컴",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 145,
+      "name": "[네네치킨] 닭가슴살 소시지 후랑크 치즈 10팩",
+      "categorys": ["meal"],
+      "origin_price": 35000,
+      "sell_price": 24500,
+      "price": 35000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "고소한 치즈가 쏙쏙 박혀 더욱 풍미 깊은 프리미엄 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 146,
+      "name": "[잇메이트] 닭가슴살 소시지 후랑크 치즈 10팩",
+      "categorys": ["meal"],
+      "origin_price": 29000,
+      "sell_price": 17400,
+      "price": 29000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/17/02d9d927-e60d-408d-a391-780a1b688e30.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "고소한 치즈가 쏙쏙 박혀 더욱 풍미 깊은 프리미엄 소시지",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "잇메이트",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 147,
+      "name": "[맛있닭] 프레시 슬라이스 닭가슴살 커리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 27000,
+      "sell_price": 13700,
+      "price": 27000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/86c0844e-310f-4304-988a-060e47edc649.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "은은한 커리 향으로 풍미를 더해 더욱 특별한 식단 관리",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "맛있닭",
+      "coupon": {
+        "available": true,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 148,
+      "name": "[허닭] 프레시 슬라이스 닭가슴살 칠리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 28000,
+      "sell_price": 21500,
+      "price": 28000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/ee5d398b-e28e-4dcc-9a8f-9e5f06485e4c.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/ee5d398b-e28e-4dcc-9a8f-9e5f06485e4c.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 149,
+      "name": "[바르닭] 닭가슴살 소시지 후랑크 5종 혼합 10팩",
+      "categorys": ["meal"],
+      "origin_price": 23000,
+      "sell_price": 15100,
+      "price": 23000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/06/30/05625ecf-d3b4-4e6d-9d23-5db5e20c4f70.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/tong_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/08/17/b886db0d-57c8-4c3d-a660-1916280ccda9.jpg"
+      ],
+      "description": "탱글탱글한 식감의 건강 소시지 5가지 맛을 한 번에 즐기는 혼합 구성",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "바르닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 150,
+      "name": "[맛있닭] 프레시 슬라이스 닭가슴살 칠리 10팩",
+      "categorys": ["meal"],
+      "origin_price": 29000,
+      "sell_price": 15300,
+      "price": 29000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/ee5d398b-e28e-4dcc-9a8f-9e5f06485e4c.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/ee5d398b-e28e-4dcc-9a8f-9e5f06485e4c.jpg?w=512&q=100",
+        "https://d3uuy0gs0gps5.cloudfront.net/live/public/thumbnail/heodak/001002003028.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description_images": [
+        "https://img.heodak.com/puradak/de/slice_g.jpg",
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/14/9a74f585-7dae-4d05-80ed-566b0beccde2.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "맛있닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 151,
+      "name": "[허닭] 잡곡밥 도시락 6종 12팩",
+      "categorys": ["meal"],
+      "origin_price": 66000,
+      "sell_price": 43900,
+      "price": 66000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/26/714203bd-ac99-4f38-88bb-24e174dbaf05.jpg?w=512&q=100",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/26/714203bd-ac99-4f38-88bb-24e174dbaf05.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/26/714203bd-ac99-4f38-88bb-24e174dbaf05.jpg?w=512&q=100"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/japgok_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 152,
+      "name": "[허닭] ON 촉촉 담백&퐁당 실온 닭가슴살 6종 8+8",
+      "categorys": ["meal"],
+      "origin_price": 62400,
+      "sell_price": 42900,
+      "price": 62400,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/73c2b71f-319a-4192-89f8-aba67eac7bce.jpg?w=512&amp;q=100",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/73c2b71f-319a-4192-89f8-aba67eac7bce.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/73c2b71f-319a-4192-89f8-aba67eac7bce.jpg?w=512&q=100"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdkon_deliverinform.jpg",
+        "http://img.heodak.com/heodak/homepage/new/detail_page_button.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "허닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 153,
+      "name": "[푸라닭] 소스&스팀 통 닭가슴살 6종 20+1팩 골라담기!",
+      "categorys": ["meal"],
+      "origin_price": 98700,
+      "sell_price": 39900,
+      "price": 98700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/20/2b51c931-dbaf-46ad-b6a9-772efe002fc6.jpg?w=512&q=100",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/20/2b51c931-dbaf-46ad-b6a9-772efe002fc6.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/02/20/2b51c931-dbaf-46ad-b6a9-772efe002fc6.jpg?w=512&q=100"
+      ],
+      "description_images": ["https://img.heodak.com/puradak/brand_intro.jpg"],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "푸라닭",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 154,
+      "name": "[네네치킨] ★37종 완전판★닭가슴살/소시지/볶음밥 1+1팩 골라담기",
+      "categorys": ["meal"],
+      "origin_price": 3200,
+      "sell_price": 890,
+      "price": 3200,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/21/e8578042-21d3-45bc-bcdc-f2d71b502280.jpg?w=512&q=100",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/21/e8578042-21d3-45bc-bcdc-f2d71b502280.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/21/e8578042-21d3-45bc-bcdc-f2d71b502280.jpg?w=512&q=100"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodakfriends/nene/heodak/2505_heodak_nene_1+1_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+    {
+      "id": 155,
+      "name": "[허닭] ON 촉촉퐁당 실온닭다리살 맛보기 3종 3팩",
+      "categorys": ["chicken"],
+      "origin_price": 14700,
+      "sell_price": 9900,
+      "price": 14700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/187ced3c-cb1f-4275-9267-e476f87faf4d.jpg",
+      "images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/21/e8578042-21d3-45bc-bcdc-f2d71b502280.jpg?w=512&q=100"
+      ],
+      "detail_images": [
+        "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/07/21/e8578042-21d3-45bc-bcdc-f2d71b502280.jpg?w=512&q=100"
+      ],
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      }
+    },
+
+    {
+      "id": 156,
+      "name": "허닭 ON 촉촉함에 퐁당\n실온 닭다리살 출시!",
+      "categorys": ["chicken"],
+      "origin_price": 14700,
+      "sell_price": 9900,
+      "price": 14700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/17/f4589977-1b34-4a2e-85aa-c64d683ab202.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2026/03/17/6d4122ec-078d-4a7b-b494-35365658c311.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#3가지맛 #실온보관",
+      "color": "white",
+      "related": [155, 160, 161, 162]
+    },
+
+    {
+      "id": 157,
+      "name": "허닭 BITE 바삭 담백한\n닭가슴살칩 출시!",
+      "categorys": ["chicken"],
+      "origin_price": 14700,
+      "sell_price": 9900,
+      "price": 14700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/10/d79eb1cf-f06a-42da-997b-fe1f76377783.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2026/03/10/a0487853-7e5c-4ad0-8ac4-5c8b8c3bb998.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#한입쏙 #고단백스낵",
+      "color": "black",
+      "related": [163, 164, 165, 166]
+    },
+
+    {
+      "id": 158,
+      "name": "허닭 BITE 단백질 뿜뿜\n그래놀라 2종 출시!",
+      "categorys": ["chicken"],
+      "origin_price": 14700,
+      "sell_price": 9900,
+      "price": 14700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/20/b74590cf-6ec3-47b3-913f-ff7bf49d5ed5.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2026/01/07/cbac8316-71cc-4eeb-91fd-15f281d714d7.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#달달꼬숩 #다이어트간식",
+      "color": "black",
+      "related": [167, 168, 169, 170]
+    },
+
+    {
+      "id": 159,
+      "name": "부담없는 50KCAL\n실온 곤약밥 출시!",
+      "categorys": ["chicken"],
+      "origin_price": 14700,
+      "sell_price": 9900,
+      "price": 14700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/01/20/6b5bd061-cf32-4298-824a-c57044134260.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black",
+      "related": [171, 172, 173, 174]
+    },
+
+    {
+      "id": 160,
+      "name": "[허닭] ON 촉촉퐁당 실온닭다리살 8+8팩",
+      "categorys": ["chicken"],
+      "origin_price": 78400,
+      "sell_price": 41900,
+      "price": 78400,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/18/798f9135-f69e-4494-9583-a62de9c15496.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 161,
+      "name": "[허닭] ON 촉촉퐁당 실온닭다리살 120g 3종 혼합 30팩",
+      "categorys": ["chicken"],
+      "origin_price": 14700,
+      "sell_price": 9900,
+      "price": 14700,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/19/2d42b77c-b522-4306-b5f3-74bbf11e7618.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 162,
+      "name": "[허닭] ON 촉촉퐁당 실온닭다리살 120g 3종 혼합 60팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/19/35191b38-d93d-44b3-ac30-d6d7da0935a8.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 163,
+      "name": "[허닭] 실온BITE 닭가슴살칩 25g 1팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/16/91b0e610-34bc-4a1b-875c-938b24f25b1c.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 164,
+      "name": "[허닭] 실온BITE 닭가슴살칩 25g 8팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/20/0455788c-31be-41ae-bcb1-2eeb3133b46c.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 165,
+      "name": "[허닭] 실온BITE 닭가슴살칩 25g 8+8",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/12/ddf2a160-284c-4912-af38-57a658c56179.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 166,
+      "name": "실온BITE 닭가슴살칩 25g 30팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/03/16/b07fc4b3-02e8-48a1-bc5c-2e337d81a655.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 167,
+      "name": "[허닭] 실온BITE 프로틴 그래놀라 50g 인절미맛 1팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/12/24/45e1884c-b6d1-4e29-8d6e-835de7728b43.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 168,
+      "name": "[허닭] 실온BITE 프로틴 그래놀라 50g 카카오맛 1팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/12/24/45e1884c-b6d1-4e29-8d6e-835de7728b43.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 169,
+      "name": "[허닭] 실온BITE 프로틴 그래놀라 50g 인절미맛 16팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/12/24/45e1884c-b6d1-4e29-8d6e-835de7728b43.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 170,
+      "name": "[허닭] 실온BITE 프로틴 그래놀라 50g 카카오맛 16팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2026/05/19/f86fa28a-8596-4f4a-96b4-6345ab97e773.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 171,
+      "name": "[허닭] ON 부담없는 실온 50KCAL곤약밥 1팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/07/6241abdb-4143-4844-be71-0640cfec8415.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 172,
+      "name": "[허닭] ON 부담없는 실온 50KCAL곤약밥 5+5팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/07/a0830499-3e52-442a-86b3-fb30576c75fa.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 173,
+      "name": "[허닭] ON 부담없는 실온 50KCAL곤약밥 10+10팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/07/f6af21f8-1bb7-4bd8-b304-35e2f67d2012.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    },
+    {
+      "id": 174,
+      "name": "[허닭] ON 부담없는 실온 현미/파로/50KCAL 곤약밥 3종 60팩",
+      "categorys": ["chicken"],
+      "origin_price": 249000,
+      "sell_price": 139000,
+      "price": 249000,
+      "deliveryFee": 0,
+      "thumbnail": "https://d3uuy0gs0gps5.cloudfront.net/public/thumbnail/2025/11/11/e5547a4e-380d-4e3e-a308-9bed847b7cfc.jpg",
+      "image": "https://d3uuy0gs0gps5.cloudfront.net/public/event/2025/11/11/38669fc1-bba1-41fd-bebc-b470b1da5d3d.jpg",
+      "description_images": [
+        "https://img.heodak.com/heodak/homepage/hdon_silon_leg_intro.jpg"
+      ],
+      "description": "매콤달콤한 칠리 소스가 배어들어 질리지 않는 슬라이스 닭가슴살",
+      "origin": "상품정보 참조",
+      "storage": "냉동",
+      "brand": "네네치킨",
+      "coupon": {
+        "available": false,
+        "type": "percent",
+        "value": 5
+      },
+      "tag": "#식이섬유  #특허곤약쌀",
+      "color": "black"
+    }
+  ]
+}

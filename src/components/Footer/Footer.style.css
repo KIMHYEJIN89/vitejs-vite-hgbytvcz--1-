@@ -1,0 +1,39 @@
+.footer {
+  padding: 20px 16px;
+
+  background-color: #fafafa;
+}
+
+.foot_text {
+  margin-top: 10px;
+  line-height: 1.2;
+  font-size: 13px;
+  color: #777;
+}
+
+.call_center {
+  margin: 20px 0 0;
+}
+.call_center * {
+  line-height: 1.2;
+  font-size: 13px;
+  color: #777;
+}
+
+.call_center p {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.call_center dl {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.call_center dl dt {
+  min-width: 50px;
+  margin-top: 8px;
+}
+.call_center dl dd {
+  flex: 1;
+}

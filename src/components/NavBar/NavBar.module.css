@@ -1,0 +1,8 @@
+.global-nav-bar {
+  padding: 0 16px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 5;
+}

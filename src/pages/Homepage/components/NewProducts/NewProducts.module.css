@@ -1,0 +1,26 @@
+.item img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.text_wrap {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.text_wrap h2 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 34px;
+  white-space: pre-wrap;
+}
+.text_wrap .tag {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.text_wrap.white h2,
+.text_wrap.white .tag {
+  color: white;
+}

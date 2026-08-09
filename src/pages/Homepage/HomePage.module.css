@@ -1,0 +1,20 @@
+.section_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.section_title {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+}
+.section_title span {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 13px;
+}
+.section_item {
+  padding: 0 16px;
+  margin-top: 50px;
+}

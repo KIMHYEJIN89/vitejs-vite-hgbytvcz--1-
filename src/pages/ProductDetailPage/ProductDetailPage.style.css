@@ -1,0 +1,12 @@
+.tab_cont {
+  padding: 0 16px;
+}
+
+.tab_cont .title {
+  padding: 20px 0;
+  font-size: 18px;
+  font-weight: 700;
+}
+.tab_cont .title + h3 {
+  margin-top: 4px;
+}

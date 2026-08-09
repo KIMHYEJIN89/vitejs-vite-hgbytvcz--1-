@@ -1,0 +1,85 @@
+.complete_text {
+  padding: 20px 0;
+  text-align: center;
+}
+.complete_text h2 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.complete_text p {
+  margin-top: 16px;
+}
+
+.order_summary {
+  position: relative;
+  padding: 20px 16px;
+}
+.order_summary + .order_summary::before {
+  display: block;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 16px;
+  right: 16px;
+  border-top: 1px solid #eee;
+}
+
+.divider {
+  height: 8px;
+  background-color: #fafafa;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+}
+
+.row + .row {
+  margin-top: 10px;
+  color: #777;
+}
+
+.row + .row * {
+  color: #777;
+}
+
+.row.total * {
+  font-weight: 700;
+}
+.row.total .price {
+  font-size: 15px;
+}
+.row .unit {
+  margin-left: 1px;
+  font-size: 14px;
+}
+
+.point {
+  color: #777;
+  font-size: 15px;
+}
+.point p:first-child {
+  margin-top: 10px;
+}
+.point p {
+  position: relative;
+  padding-left: 12px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #777;
+}
+.point p::before {
+  display: block;
+  content: '';
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #eee;
+}
+
+.type_point {
+  color: #777;
+}

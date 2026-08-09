@@ -1,0 +1,27 @@
+.descImages {
+  height: 36vh;
+  overflow: hidden;
+}
+.descImages img {
+  width: 100%;
+}
+
+.btnOpen button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 44px;
+  margin-top: 20px;
+  border: 1px solid #111;
+  border-radius: 15px;
+  background-color: #fff;
+  font-weight: 700;
+}
+
+.open .descImages {
+  height: auto;
+}
+.open .btnOpen {
+  display: none;
+}
