@@ -1,6 +1,6 @@
 import axios from 'axios';
 const api = axios.create({
-  baseURL: 'https://my-json-server.typicode.com/KIMHYEJIN89/vitejs-vite-hgbytvcz--1-',
+  baseURL: 'https://api.npoint.io/9246bce0ee408260a3fa',
   timeout: 5000,
   headers: {
     accept: 'application/json',
